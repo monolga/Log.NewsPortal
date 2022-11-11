@@ -1,0 +1,1163 @@
+Watching for file changes with StatReloader
+C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates with glob **/*.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates with glob **/*.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\templates with glob **/*.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\locale with glob **/*.mo.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\locale with glob **/*.mo.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\fpages\locale with glob **/*.mo.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\accounts\locale with glob **/*.mo.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale with glob **/*.mo.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale with glob **/*.mo.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\account\locale with glob **/*.mo.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\socialaccount\locale with glob **/*.mo.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\socialaccount\providers\google\locale with glob **/*.mo.
+Watching dir C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_apscheduler\locale with glob **/*.mo.
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\contenttypes\apps.py first seen with mtime 1663432325.0533845
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\keywords.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\admin.py first seen with mtime 1663431368.5396664
+File C:\Program Files\Python38\Lib\multiprocessing\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py first seen with mtime 1661865240.4949932
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\forms\boundfield.py first seen with mtime 1663432327.332541
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\forms\forms.py first seen with mtime 1663432327.334541
+File C:\Program Files\Python38\Lib\operator.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\collections.py first seen with mtime 1665495371.6097322
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\click\globals.py first seen with mtime 1665495370.4620059
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\lookups.py first seen with mtime 1663432327.2890897
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\exceptions.py first seen with mtime 1663432327.0911465
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\adapter.py first seen with mtime 1654588795.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1663432326.5684533
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1663432326.1384418
+File C:\Program Files\Python38\Lib\email\mime\__init__.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\random.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\jobstores\base.py first seen with mtime 1665241820.1054704
+File C:\Program Files\Python38\Lib\os.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\colorama\__init__.py first seen with mtime 1665495370.387828
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\exceptions.py first seen with mtime 1663432327.2596848
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\accounts\admin.py first seen with mtime 1661888991.9055119
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\base_user.py first seen with mtime 1663432324.7660656
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\idna\intranges.py first seen with mtime 1663384611.4335787
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\__init__.py first seen with mtime 1663384609.196189
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\click\decorators.py first seen with mtime 1665495370.459015
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\schedulers\__init__.py first seen with mtime 1665241820.1141565
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\app\base.py first seen with mtime 1665495371.5136504
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\auth.py first seen with mtime 1663384612.1893988
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\poolmanager.py first seen with mtime 1663384609.206131
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\sqlite3\_functions.py first seen with mtime 1663432327.2475114
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pytz_deprecation_shim\_compat.py first seen with mtime 1665241819.948744
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\files.py first seen with mtime 1663432327.114044
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\context.py first seen with mtime 1663432327.4501598
+File C:\Program Files\Python38\DLLs\_ctypes.pyd first seen with mtime 1582662654.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\templatetags\flatpages.py first seen with mtime 1663432325.4863424
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\operations\__init__.py first seen with mtime 1663432327.272072
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\messaging.py first seen with mtime 1665495370.7945948
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\_version.py first seen with mtime 1663384609.198203
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\decorators\cache.py first seen with mtime 1663432327.5468285
+File C:\Program Files\Python38\Lib\posixpath.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\cli.py first seen with mtime 1661865298.0092392
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\vine\synchronization.py first seen with mtime 1665495369.117726
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\models.py first seen with mtime 1663432324.777483
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\loaders\app.py first seen with mtime 1665495371.5994854
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\forms\formsets.py first seen with mtime 1663432327.3358645
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\connection.py first seen with mtime 1665495370.787618
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py first seen with mtime 1661865240.4949932
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_filters\constants.py first seen with mtime 1662303304.9454944
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\connection.py first seen with mtime 1663432327.5008016
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\urls.py first seen with mtime 1663432327.120923
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\smartif.py first seen with mtime 1663432327.460228
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\abstract_channel.py first seen with mtime 1665495370.6400163
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\click\formatting.py first seen with mtime 1665495370.4610078
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\apps.py first seen with mtime 1663432325.2770705
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\connectionpool.py first seen with mtime 1663384609.2009459
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\__init__.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\utils\imports.py first seen with mtime 1665495370.851171
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\http\cookie.py first seen with mtime 1663432327.4340496
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\templatetags\static.py first seen with mtime 1663432327.4762294
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\templatetags\log.py first seen with mtime 1663432324.5305052
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\signals.py first seen with mtime 1663432324.779482
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\dateparse.py first seen with mtime 1663432327.5048025
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\app_settings.py first seen with mtime 1639734504.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\app\backends.py first seen with mtime 1665495371.5128243
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\asgiref\local.py first seen with mtime 1661865298.6631587
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\templatetags\i18n.py first seen with mtime 1663432327.4742312
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\base\client.py first seen with mtime 1663432327.2064664
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py first seen with mtime 1661865240.4793677
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\sqlite3\client.py first seen with mtime 1663432327.2500696
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\ddl_references.py first seen with mtime 1663432327.2007065
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\forms\fields.py first seen with mtime 1663432327.333541
+File C:\Program Files\Python38\Lib\copy.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\serializers\python.py first seen with mtime 1663432327.1895719
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\engine\__init__.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\decorators.py first seen with mtime 1663432324.7723608
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\helpers.py first seen with mtime 1663432323.8021271
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\backends\__init__.py first seen with mtime 1663432327.4612217
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\decorators\common.py first seen with mtime 1663432327.549827
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\tzlocal\utils.py first seen with mtime 1665241820.0256407
+File C:\Program Files\Python38\Lib\nturl2path.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\colorama\win32.py first seen with mtime 1665495370.39412
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\_vendor\six.py first seen with mtime 1661865240.4793677
+File C:\Program Files\Python38\Lib\asyncio\log.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\staticfiles\management\commands\__init__.py first seen with mtime 1663432327.083146
+File C:\Program Files\Python38\Lib\email\_policybase.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\base\__init__.py first seen with mtime 1663432327.2038345
+File C:\Program Files\Python38\Lib\gzip.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\functions\text.py first seen with mtime 1663432327.3158507
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\sql\where.py first seen with mtime 1663432327.3254726
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\click\__init__.py first seen with mtime 1665495370.45109
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\queue.py first seen with mtime 1663384609.231293
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\cookies.py first seen with mtime 1663384612.1923206
+File C:\Program Files\Python38\DLLs\unicodedata.pyd first seen with mtime 1582662656.0
+File C:\Program Files\Python38\Lib\ctypes\_endian.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\connection.py first seen with mtime 1665495370.6445844
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\lorem_ipsum.py first seen with mtime 1663432327.5236156
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_filters\fields.py first seen with mtime 1663426374.178972
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\inspect.py first seen with mtime 1663432327.5190792
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sessions\models.py first seen with mtime 1663432326.570411
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\topological_sort.py first seen with mtime 1663432327.531616
+File C:\Program Files\Python38\Lib\numbers.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\email\_encoded_words.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\uu.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\options.py first seen with mtime 1663432323.8043547
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\backports\zoneinfo\_tzpath.py first seen with mtime 1661865297.9247289
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\dispatch\__init__.py first seen with mtime 1665495371.6264522
+File C:\Program Files\Python38\Lib\email\contentmanager.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\utils.py first seen with mtime 1643915803.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\base\constants.py first seen with mtime 1639132060.0
+File C:\Program Files\Python38\Lib\csv.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\defaulttags.py first seen with mtime 1663432327.4521325
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\dates.py first seen with mtime 1663432327.5058043
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\billiard\context.py first seen with mtime 1665495368.887602
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\proxy.py first seen with mtime 1663384609.2309237
+File C:\Program Files\Python38\DLLs\_overlapped.pyd first seen with mtime 1582662654.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\messages.py first seen with mtime 1663432327.115958
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\idna\package_data.py first seen with mtime 1663384611.434578
+File C:\Program Files\Python38\Lib\fnmatch.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\signals.py first seen with mtime 1663432327.093147
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\py31compat.py first seen with mtime 1661865240.4793677
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\charset_normalizer\api.py first seen with mtime 1663384611.865131
+File C:\Program Files\Python38\Lib\email\_header_value_parser.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\cffi\lock.py first seen with mtime 1663384613.2195885
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\autoreload.py first seen with mtime 1663432327.4978106
+File C:\Program Files\Python38\Lib\asyncio\coroutines.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\entity.py first seen with mtime 1665495370.7886145
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\formats.py first seen with mtime 1663432327.5137503
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\vine\promises.py first seen with mtime 1665495369.1167195
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pytz_deprecation_shim\_exceptions.py first seen with mtime 1665241819.9526083
+File C:\Program Files\Python38\Lib\email\header.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\threads.py first seen with mtime 1665495371.6244588
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\staticfiles\__init__.py first seen with mtime 1663432327.0709348
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\jobstores\memory.py first seen with mtime 1665241820.1064284
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\__init__.py first seen with mtime 1663432324.7616842
+File C:\Program Files\Python38\Lib\locale.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\quopri.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\backports\__init__.py first seen with mtime 1661865297.9247289
+File C:\Program Files\Python38\Lib\traceback.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\wsgiref\simple_server.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\models.py first seen with mtime 1663432325.2800703
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\dispatch\signal.py first seen with mtime 1665495371.6274488
+File C:\Program Files\Python38\Lib\plistlib.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\duration.py first seen with mtime 1663432327.5098114
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\__init__.py first seen with mtime 1663432323.7920907
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\imports.py first seen with mtime 1665495371.6147156
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\urls\resolvers.py first seen with mtime 1663432327.4918015
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\filters\tokens.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\apps.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\middleware\cache.py first seen with mtime 1663432327.439361
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\contenttypes\forms.py first seen with mtime 1663432325.0567603
+File C:\Program Files\Python38\Lib\importlib\abc.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\utils.py first seen with mtime 1639734504.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\retry.py first seen with mtime 1663384609.235719
+File C:\Program Files\Python38\Lib\reprlib.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\utils.py first seen with mtime 1663432327.2028313
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\dotenv\parser.py first seen with mtime 1665141480.2842252
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\models.py first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\middleware.py first seen with mtime 1663432324.775159
+File C:\Program Files\Python38\Lib\datetime.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\version.py first seen with mtime 1663432327.5326197
+File C:\Program Files\Python38\Lib\asyncio\protocols.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\common.py first seen with mtime 1665495370.7836323
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\base.py first seen with mtime 1663432327.2815185
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\static.py first seen with mtime 1663432327.5448177
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\security\base.py first seen with mtime 1663432327.124437
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pytz_deprecation_shim\_common.py first seen with mtime 1665241819.9470341
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\serializers\__init__.py first seen with mtime 1663432327.1854677
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\tzlocal\__init__.py first seen with mtime 1665241820.023565
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\i18n.py first seen with mtime 1663432327.5443177
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\filepost.py first seen with mtime 1663384609.2051194
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\asgiref\sync.py first seen with mtime 1661865298.678786
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\sign\forms.py first seen with mtime 1663502331.3538187
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\click\exceptions.py first seen with mtime 1665495370.4600136
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\asgiref\__init__.py first seen with mtime 1661865298.6631587
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\middleware\common.py first seen with mtime 1663432327.4403613
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\__init__.py first seen with mtime 1663432327.089148
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\staticfiles\views.py first seen with mtime 1663432327.0821464
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sessions\__init__.py first seen with mtime 1663432326.5664163
+File C:\Program Files\Python38\Lib\_compression.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\views.py first seen with mtime 1663432324.7828493
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\asgiref\current_thread_executor.py first seen with mtime 1661865298.6631587
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\staticfiles\handlers.py first seen with mtime 1663432327.0756977
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\__init__.py first seen with mtime 1663432327.257684
+File C:\Program Files\Python38\Lib\sqlite3\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\jobstores.py first seen with mtime 1665241820.3969572
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\base\creation.py first seen with mtime 1663432327.2071538
+File C:\Program Files\Python38\Lib\asyncio\format_helpers.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\files\images.py first seen with mtime 1663432327.128762
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\sqlite3\creation.py first seen with mtime 1663432327.2510777
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\shortcuts.py first seen with mtime 1663432323.3826544
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\google\views.py first seen with mtime 1639132060.0
+File C:\Program Files\Python38\Lib\importlib\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\abstract.py first seen with mtime 1665495370.7806342
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\app\autoretry.py first seen with mtime 1665495371.510795
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\handlers\wsgi.py first seen with mtime 1663432327.1411197
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\hashers.py first seen with mtime 1663432324.774158
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1663432326.142459
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\forms.py first seen with mtime 1663432325.2780702
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\http\request.py first seen with mtime 1663432327.4363387
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\numberformat.py first seen with mtime 1663432327.525615
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\certifi\core.py first seen with mtime 1663384612.0732117
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\contrib\_appengine_environ.py first seen with mtime 1663384609.2120867
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\messages\apps.py first seen with mtime 1663432326.133966
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\sql\subqueries.py first seen with mtime 1663432327.3244727
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\charset_normalizer\utils.py first seen with mtime 1663384611.8738465
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\transport.py first seen with mtime 1665495370.6544554
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\constraints.py first seen with mtime 1663432327.2835574
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\fields\reverse_related.py first seen with mtime 1663432327.3077257
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\contenttypes\fields.py first seen with mtime 1663432325.055738
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\files\base.py first seen with mtime 1663432327.127769
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\base\validation.py first seen with mtime 1663432327.2121584
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\charset_normalizer\legacy.py first seen with mtime 1663384611.8691692
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1663432326.5694127
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\wsgi.py first seen with mtime 1663432327.098742
+File C:\Program Files\Python38\Lib\dis.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\shutil.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\app\registry.py first seen with mtime 1665495371.5195725
+File C:\Program Files\Python38\Lib\difflib.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\base\provider.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\apps.py first seen with mtime 1663432324.7640574
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\__init__.py first seen with mtime 1663432325.2760694
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\api.py first seen with mtime 1663384612.1880283
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\functional.py first seen with mtime 1663432327.5150092
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\tzlocal\win32.py first seen with mtime 1665241820.0275564
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\fixups\django.py first seen with mtime 1665495371.5974922
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\contenttypes\views.py first seen with mtime 1663432325.0587604
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\query.py first seen with mtime 1663432327.2920902
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\log.py first seen with mtime 1663432327.522615
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\sql\__init__.py first seen with mtime 1663432327.3178513
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pytz_deprecation_shim\_compat_py3.py first seen with mtime 1665241819.9506073
+File C:\Program Files\Python38\Lib\secrets.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\utils\functional.py first seen with mtime 1665495370.8501742
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\indexes.py first seen with mtime 1663432327.2880895
+File C:\Program Files\Python38\Lib\hmac.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\sqlite3\dbapi2.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\http\cookiejar.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\management\__init__.py first seen with mtime 1663432327.1530697
+File C:\Program Files\Python38\Lib\hashlib.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\wsgiref\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\backports\zoneinfo\_common.py first seen with mtime 1661865297.9247289
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\filters\reindent.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\manage.py first seen with mtime 1661865484.930081
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\actions.py first seen with mtime 1663432323.79509
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\base\introspection.py first seen with mtime 1663432327.2091613
+File C:\Program Files\Python38\Lib\email\mime\base.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\multiprocessing\process.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\iso8601.py first seen with mtime 1665495371.6157122
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\sqlite3\operations.py first seen with mtime 1663432327.2546842
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\http\response.py first seen with mtime 1663432327.4373615
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\handlers\exception.py first seen with mtime 1663432327.1400633
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\models.py first seen with mtime 1665241820.3979537
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\signals.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\google\provider.py first seen with mtime 1639132060.0
+File C:\Program Files\Python38\Lib\asyncio\events.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\apps\config.py first seen with mtime 1663432323.3856928
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\engine.py first seen with mtime 1663432327.4532223
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\files\temp.py first seen with mtime 1663432327.131765
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\exceptions.py first seen with mtime 1665495370.7906077
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\__init__.py first seen with mtime 1654593728.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\utils\div.py first seen with mtime 1665495370.8471844
+File C:\Program Files\Python38\Lib\mimetypes.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\schedulers\base.py first seen with mtime 1665241820.118042
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\functions\datetime.py first seen with mtime 1663432327.311845
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\sign\views.py first seen with mtime 1663510048.2088153
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\schedulers\blocking.py first seen with mtime 1665241820.1192193
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\transaction.py first seen with mtime 1663432327.1965718
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\__init__.py first seen with mtime 1663384609.227888
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\__init__.py first seen with mtime 1663432323.3799913
+File C:\Program Files\Python38\Lib\bisect.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\multiprocessing\context.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\DLLs\_hashlib.pyd first seen with mtime 1582662654.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\cache\backends\__init__.py first seen with mtime 1663432327.1012688
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\billiard\util.py first seen with mtime 1665495368.9052615
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\base.py first seen with mtime 1663432327.4481542
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\cffi\api.py first seen with mtime 1663384613.2103643
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pytz_deprecation_shim\_impl.py first seen with mtime 1665241819.953912
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\app\utils.py first seen with mtime 1665495371.523559
+File C:\Program Files\Python38\Lib\glob.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\asyncio\base_events.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\timeout.py first seen with mtime 1663384609.2397218
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\ssl_.py first seen with mtime 1663384609.2367187
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\enums.py first seen with mtime 1663432327.2855184
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\request.py first seen with mtime 1663384609.208084
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\channel.py first seen with mtime 1665495370.6423273
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\cache\utils.py first seen with mtime 1663432327.1012688
+File C:\Program Files\Python38\Lib\asyncio\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\base\mixins.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sessions\apps.py first seen with mtime 1663432326.5674477
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\charset_normalizer\constant.py first seen with mtime 1663384611.8681378
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\celery.py first seen with mtime 1665565384.121608
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\engine\grouping.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\sql\datastructures.py first seen with mtime 1663432327.321473
+File C:\Program Files\Python38\Lib\enum.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\google\urls.py first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\views.py first seen with mtime 1663432325.2830803
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\serializers\json.py first seen with mtime 1663432327.187567
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\url.py first seen with mtime 1663384609.2407181
+File C:\Program Files\Python38\Lib\encodings\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\serialization.py first seen with mtime 1665495370.651465
+File C:\Program Files\Python38\Lib\configparser.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1663432327.3021631
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\loader_tags.py first seen with mtime 1663432327.4582274
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\fields\json.py first seen with mtime 1663432327.2998493
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\protocol.py first seen with mtime 1665495370.6495545
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\forms.py first seen with mtime 1663426374.5162725
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\apps.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\executors\pool.py first seen with mtime 1665241820.100003
+File C:\Program Files\Python38\Lib\concurrent\futures\process.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\autoreload.py first seen with mtime 1663432327.4470167
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\backends\base.py first seen with mtime 1663432327.4632218
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\templates.py first seen with mtime 1663432327.1188247
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\mail\message.py first seen with mtime 1663432327.143123
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1663432327.1068966
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\executors\base.py first seen with mtime 1665241820.0957909
+File C:\Program Files\Python38\Lib\asyncio\transports.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\urls\conf.py first seen with mtime 1663432327.4886973
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\loaders\base.py first seen with mtime 1665495371.6004825
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\charset_normalizer\version.py first seen with mtime 1663384611.8748362
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\deprecation.py first seen with mtime 1663432327.5088117
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\debug.py first seen with mtime 1663432327.5422795
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\resource.py first seen with mtime 1665495370.8001227
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\base\base.py first seen with mtime 1663432327.205239
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\sqlite3\base.py first seen with mtime 1663432327.2485118
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\base\schema.py first seen with mtime 1663432327.2111585
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sites\admin.py first seen with mtime 1663432326.834771
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\sqlite3\schema.py first seen with mtime 1663432327.2556863
+File C:\Program Files\Python38\Lib\concurrent\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\fpages\admin.py first seen with mtime 1661883055.7386265
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1663432326.5721414
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\crypto.py first seen with mtime 1663432327.5018015
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\deconstruct.py first seen with mtime 1663432327.507802
+File C:\Program Files\Python38\Lib\concurrent\futures\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\templatetags\admin_urls.py first seen with mtime 1663432324.5284986
+File C:\Program Files\Python38\Lib\http\__init__.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\json\scanner.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\ssl.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\log.py first seen with mtime 1665495371.616709
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\fields.py first seen with mtime 1663384609.2030847
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pytz\exceptions.py first seen with mtime 1665241819.3422575
+File C:\Program Files\Python38\Lib\calendar.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\response.py first seen with mtime 1663432327.4582274
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\decorators\__init__.py first seen with mtime 1663432327.5458257
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\helpers.py first seen with mtime 1648192102.0
+File C:\Program Files\Python38\Lib\xml\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\registry.py first seen with mtime 1663432327.1178217
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\util.py first seen with mtime 1665241820.091052
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\sqlite3\features.py first seen with mtime 1663432327.2527823
+File C:\Program Files\Python38\Lib\subprocess.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\types.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\vine\utils.py first seen with mtime 1665495369.1190965
+File C:\Program Files\Python38\Lib\sre_compile.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\__init__.py first seen with mtime 1665241820.3939672
+File C:\Program Files\Python38\Lib\_compat_pickle.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\asyncio\proactor_events.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\operations\fields.py first seen with mtime 1663432327.2740743
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\click\termui.py first seen with mtime 1665495370.466988
+File C:\Program Files\Python38\Lib\email\mime\nonmultipart.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\packages\six.py first seen with mtime 1663384609.2248883
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\exceptions.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\checks.py first seen with mtime 1663432323.79709
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\sign\urls.py first seen with mtime 1663507623.730183
+File C:\Program Files\Python38\Lib\asyncio\base_tasks.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\utils.py first seen with mtime 1661865298.024863
+File C:\Program Files\Python38\Lib\multiprocessing\reduction.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\socket.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\engine\filter_stack.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\tokens.py first seen with mtime 1661865298.024863
+File C:\Program Files\Python38\Lib\asyncio\sslproto.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\transport\__init__.py first seen with mtime 1665495370.8221233
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sites\checks.py first seen with mtime 1663432326.8357725
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\mail\utils.py first seen with mtime 1663432327.1441193
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\jobstores\__init__.py first seen with mtime 1665241820.1032884
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\functions\math.py first seen with mtime 1663432327.3128507
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\functions\comparison.py first seen with mtime 1663432327.310806
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\dotenv\__init__.py first seen with mtime 1665141480.280331
+File C:\Program Files\Python38\Lib\functools.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\generic\__init__.py first seen with mtime 1663432327.5555303
+File C:\Program Files\Python38\Lib\decimal.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\fields.py first seen with mtime 1639132060.0
+File C:\Program Files\Python38\Lib\asyncio\staggered.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\encodings\latin_1.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\decorators.py first seen with mtime 1663432327.507802
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pytz\lazy.py first seen with mtime 1665241819.3432832
+File C:\Program Files\Python38\Lib\asyncio\exceptions.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\app\__init__.py first seen with mtime 1665495371.5088122
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\urls.py first seen with mtime 1663432325.2820714
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\utils.py first seen with mtime 1665495370.6555188
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\staticfiles\management\__init__.py first seen with mtime 1663432327.0821464
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\templatetags\tz.py first seen with mtime 1663432327.4772296
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\timezone.py first seen with mtime 1663432327.530616
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\admin.py first seen with mtime 1663432324.7629054
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\messages\constants.py first seen with mtime 1663432326.1349502
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\forms.py first seen with mtime 1663432324.7731533
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\cache\__init__.py first seen with mtime 1663432327.10027
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templatetags\custom_filters.py first seen with mtime 1662300256.6128664
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\triggers\base.py first seen with mtime 1665241820.1273165
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\ipv6.py first seen with mtime 1663432327.5195909
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\platforms.py first seen with mtime 1665495371.5038235
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\views.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\messages\__init__.py first seen with mtime 1663432326.1319506
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\spec.py first seen with mtime 1665495370.6524625
+File C:\Program Files\Python38\Lib\asyncio\windows_events.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\models.py first seen with mtime 1643917322.0
+File C:\Program Files\Python38\Lib\email\iterators.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\tzlocal\windows_tz.py first seen with mtime 1665241820.0292416
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\handlers\__init__.py first seen with mtime 1663432327.1357634
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\fields\related.py first seen with mtime 1663432327.3036604
+File C:\Program Files\Python38\Lib\email\generator.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\job.py first seen with mtime 1665241820.0901828
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\charset_normalizer\cd.py first seen with mtime 1663384611.8671308
+File C:\Program Files\Python38\Lib\email\mime\multipart.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\urllib\request.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\cache.py first seen with mtime 1663432327.4998016
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\signals.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\compatibility\django_4_0.py first seen with mtime 1663432327.121931
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\colorama\ansi.py first seen with mtime 1665495370.3898733
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\urls\exceptions.py first seen with mtime 1663432327.4898016
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\billiard\five.py first seen with mtime 1665495368.8895953
+File C:\Program Files\Python38\Lib\inspect.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\compatibility\__init__.py first seen with mtime 1663432327.120923
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\timesince.py first seen with mtime 1663432327.529616
+File C:\Program Files\Python38\Lib\json\decoder.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\formatter.py first seen with mtime 1661865298.024863
+File C:\Program Files\Python38\Lib\typing.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1663432326.137442
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\state.py first seen with mtime 1663432327.268285
+File C:\Program Files\Python38\Lib\copyreg.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\ipaddress.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\utils.py first seen with mtime 1663432327.295842
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\staticfiles\checks.py first seen with mtime 1663432327.074185
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\contenttypes\admin.py first seen with mtime 1663432325.0523858
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\__init__.py first seen with mtime 1661865240.4793677
+File C:\Program Files\Python38\Lib\statistics.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\checks.py first seen with mtime 1663432324.767066
+File C:\Program Files\Python38\Lib\encodings\utf_8.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\certs.py first seen with mtime 1663384612.1903214
+File C:\Program Files\Python38\Lib\argparse.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\http\multipartparser.py first seen with mtime 1663432327.4359043
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\functions\mixins.py first seen with mtime 1663432327.3138509
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\management\commands\runserver.py first seen with mtime 1663432327.1734498
+File C:\Program Files\Python38\Lib\email\errors.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\importlib\metadata.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\logging\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\fixups\__init__.py first seen with mtime 1665495371.5964954
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\security\sessions.py first seen with mtime 1663432327.1267626
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\apps.py first seen with mtime 1665246178.6251228
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\hooks.py first seen with mtime 1663384612.195321
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\password_validation.py first seen with mtime 1663432324.7784832
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\__init__.py first seen with mtime 1663432327.4928024
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\_internal_utils.py first seen with mtime 1663384612.184509
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\migration.py first seen with mtime 1663432327.263685
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\apps.py first seen with mtime 1665241820.3959603
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\loader.py first seen with mtime 1663432327.4572272
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\utils\__init__.py first seen with mtime 1665495370.8421118
+File C:\Program Files\Python38\Lib\warnings.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\urllib\response.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\accounts\apps.py first seen with mtime 1661889006.5797963
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\middleware\__init__.py first seen with mtime 1663432327.4383612
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\six.py first seen with mtime 1665241819.9143841
+File C:\Program Files\Python38\Lib\ast.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\fields\__init__.py first seen with mtime 1663432327.2968485
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\signals.py first seen with mtime 1663432327.2012064
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\module_loading.py first seen with mtime 1663432327.5246153
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\forms.py first seen with mtime 1663426374.31514
+File C:\Program Files\Python38\Lib\asyncio\base_subprocess.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\database.py first seen with mtime 1663432327.1130445
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\staticfiles\finders.py first seen with mtime 1663432327.0746875
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\generic\list.py first seen with mtime 1663432327.5605145
+File C:\Program Files\Python38\Lib\contextlib.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\decorators.py first seen with mtime 1639325261.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\contenttypes\checks.py first seen with mtime 1663432325.0543854
+File C:\Program Files\Python38\Lib\linecache.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\mail\__init__.py first seen with mtime 1663432327.1421194
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\certifi\__init__.py first seen with mtime 1663384612.069231
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\files\storage.py first seen with mtime 1663432327.130762
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py first seen with mtime 1663432324.5265236
+File C:\Program Files\Python38\Lib\urllib\error.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\multiprocessing\connection.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\asyncio\tasks.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\cffi\error.py first seen with mtime 1663384613.217027
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\filters\others.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\translation\__init__.py first seen with mtime 1663432327.5346162
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\urls.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\engine\statement_splitter.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\events.py first seen with mtime 1665241820.0889003
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\admin.py first seen with mtime 1663432325.2770705
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\urls\converters.py first seen with mtime 1663432327.4886973
+File C:\Program Files\Python38\Lib\email\parser.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\utils\uuid.py first seen with mtime 1665495370.8594463
+File C:\Program Files\Python38\Lib\email\policy.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\importlib\resources.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\sre_parse.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\__init__.py first seen with mtime 1665495370.638393
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\platform.py first seen with mtime 1665495370.6475153
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\__init__.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\files\move.py first seen with mtime 1663432327.130762
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\conf\locale\__init__.py first seen with mtime 1663432323.3992229
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\vine\abstract.py first seen with mtime 1665495369.115865
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\contrib\__init__.py first seen with mtime 1663384609.2100842
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\urls\utils.py first seen with mtime 1663432327.4928024
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\datastructures.py first seen with mtime 1663432327.5028014
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\__init__.py first seen with mtime 1663432327.1110442
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\aggregates.py first seen with mtime 1663432327.2800145
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\connection.py first seen with mtime 1663384609.1999352
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\oauth2\client.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\cache\backends\filebased.py first seen with mtime 1663432327.1058967
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\idna\core.py first seen with mtime 1663384611.4312906
+File C:\Program Files\Python38\Lib\encodings\cp1251.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\charset_normalizer\models.py first seen with mtime 1663384611.8706565
+File C:\Program Files\Python38\Lib\re.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\loaders\cached.py first seen with mtime 1663432327.4700844
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\generic\detail.py first seen with mtime 1663432327.5595143
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\adapters.py first seen with mtime 1663384612.1864483
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pytz\tzinfo.py first seen with mtime 1665241819.3463354
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\caches.py first seen with mtime 1663432327.1130445
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\utils\compat.py first seen with mtime 1665495370.845193
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pytz_deprecation_shim\__init__.py first seen with mtime 1665241819.945954
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\sql\constants.py first seen with mtime 1663432327.320464
+File C:\Program Files\Python38\Lib\ctypes\wintypes.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\loaders\filesystem.py first seen with mtime 1663432327.4712303
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\cache\backends\base.py first seen with mtime 1663432327.103283
+File C:\Program Files\Python38\Lib\asyncio\base_futures.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\click\_winconsole.py first seen with mtime 1665495370.456012
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\term.py first seen with mtime 1665495371.6224656
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pytz\tzfile.py first seen with mtime 1665241819.3453355
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\expressions.py first seen with mtime 1663432327.286973
+File C:\Program Files\Python38\Lib\__future__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\forms\utils.py first seen with mtime 1663432327.3389795
+File C:\Program Files\Python38\Lib\html\parser.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\getpass.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\oauth2\__init__.py first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\dotenv\main.py first seen with mtime 1665141480.2842252
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sites\management.py first seen with mtime 1663432326.836879
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\middleware\security.py first seen with mtime 1663432327.4453616
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pytz\__init__.py first seen with mtime 1665241819.3407679
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pytz_deprecation_shim\helpers.py first seen with mtime 1665241819.955455
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py first seen with mtime 1661865240.4949932
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\filters\__init__.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\conf\__init__.py first seen with mtime 1663432323.3877063
+File C:\Program Files\Python38\Lib\html\entities.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\method_framing.py first seen with mtime 1665495370.646487
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\_vendor\__init__.py first seen with mtime 1661865240.4793677
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\forms\models.py first seen with mtime 1663432327.3369734
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\models.py first seen with mtime 1665923383.6981874
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\basic_message.py first seen with mtime 1665495370.6411042
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\fields\related_descriptors.py first seen with mtime 1663432327.3056743
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\lexer.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\loaders\__init__.py first seen with mtime 1663432327.4672828
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\termcolors.py first seen with mtime 1663432327.5276158
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\base\operations.py first seen with mtime 1663432327.2101583
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\__init__.py first seen with mtime 1663432327.278442
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\security\__init__.py first seen with mtime 1663432327.1229312
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\utils.py first seen with mtime 1663432327.4612217
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\dotenv\variables.py first seen with mtime 1665141480.286748
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\templatetags\cache.py first seen with mtime 1663432327.4742312
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\servers\basehttp.py first seen with mtime 1663432327.1945708
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\request.py first seen with mtime 1663384609.2325385
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\billiard\exceptions.py first seen with mtime 1665495368.8895953
+File C:\Program Files\Python38\Lib\asyncio\locks.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\templatetags\__init__.py first seen with mtime 1663432324.5247788
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\click\types.py first seen with mtime 1665495370.4704711
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\text.py first seen with mtime 1663432327.5286157
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\__init__.py first seen with mtime 1663432327.199004
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\regex_helper.py first seen with mtime 1663432327.5266235
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\generic\edit.py first seen with mtime 1663432327.5595143
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sessions\base_session.py first seen with mtime 1663432326.5674477
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_filters\utils.py first seen with mtime 1662303304.9485042
+File C:\Program Files\Python38\Lib\email\_parseaddr.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\signals.py first seen with mtime 1665246178.6151512
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\http\__init__.py first seen with mtime 1663432327.4340496
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\ssl_match_hostname.py first seen with mtime 1663384609.237718
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\operations\base.py first seen with mtime 1663432327.2730758
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\views.py first seen with mtime 1654590078.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\translation\trans_real.py first seen with mtime 1663432327.5396962
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\utils.py first seen with mtime 1663432323.8070533
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\extern\__init__.py first seen with mtime 1661865240.4949932
+File C:\Program Files\Python38\Lib\asyncio\constants.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\dispatch\__init__.py first seen with mtime 1663432327.3268075
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\exceptions.py first seen with mtime 1661865298.024863
+File C:\Program Files\Python38\Lib\pathlib.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\colorama\winterm.py first seen with mtime 1665495370.3951662
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\templatetags\__init__.py first seen with mtime 1663432327.4732358
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\filters\output.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\models.py first seen with mtime 1663432323.8023453
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py first seen with mtime 1661865240.4949932
+File C:\Program Files\Python38\Lib\token.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\__init__.py first seen with mtime 1665496013.8851302
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\http.py first seen with mtime 1663432327.5180306
+File C:\Program Files\Python38\Lib\_sitebuiltins.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\schedulers\background.py first seen with mtime 1665241820.1169827
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\utils\json.py first seen with mtime 1665495370.8521676
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\dateformat.py first seen with mtime 1663432327.5038016
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sites\models.py first seen with mtime 1663432326.8396826
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\oauth2\views.py first seen with mtime 1654594286.0
+File C:\Program Files\Python38\Lib\opcode.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\templatetags\__init__.py first seen with mtime 1663432325.4843516
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\handlers\asgi.py first seen with mtime 1663432327.1379535
+File C:\Program Files\Python38\Lib\tempfile.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\exceptions.py first seen with mtime 1665495370.6454852
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\admin.py first seen with mtime 1639734504.0
+File C:\Program Files\Python38\Lib\asyncio\futures.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\abstract.py first seen with mtime 1665495371.6087356
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\mixins.py first seen with mtime 1663432324.7762947
+File C:\Program Files\Python38\Lib\keyword.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\threading.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\fractions.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\backports\zoneinfo\__init__.py first seen with mtime 1661865297.9247289
+File C:\Program Files\Python38\Lib\http\cookies.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\queue.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\textwrap.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\vine\funtools.py first seen with mtime 1665495369.1167195
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\templatetags\socialaccount.py first seen with mtime 1639855608.0
+File C:\Program Files\Python38\Lib\concurrent\futures\_base.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\email\utils.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\urllib\parse.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\wsgiref\handlers.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\decorators.py first seen with mtime 1663432323.7980902
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\deletion.py first seen with mtime 1663432327.2845187
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\itercompat.py first seen with mtime 1663432327.5206165
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\templatetags\__init__.py first seen with mtime 1571643861.0
+File C:\Program Files\Python38\Lib\base64.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\charset_normalizer\__init__.py first seen with mtime 1663384611.8641307
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\structures.py first seen with mtime 1663384612.2013218
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\idna\idnadata.py first seen with mtime 1663384611.4326165
+File C:\Program Files\Python38\Lib\string.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\async_checks.py first seen with mtime 1663432327.1120439
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\urls\__init__.py first seen with mtime 1663432327.4864917
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\_collections.py first seen with mtime 1663384609.1971886
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\forms.py first seen with mtime 1664214552.977322
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\response.py first seen with mtime 1663384609.2090843
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\backports\zoneinfo\_version.py first seen with mtime 1661865297.9247289
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\admin.py first seen with mtime 1665241820.394964
+File C:\Program Files\Python38\Lib\xml\parsers\expat.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\concurrent\futures\thread.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\utils\objects.py first seen with mtime 1665495370.854161
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sites\shortcuts.py first seen with mtime 1663432326.8416808
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\staticfiles\management\commands\runserver.py first seen with mtime 1663432327.0861468
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\utils.py first seen with mtime 1663384612.2023218
+File C:\Program Files\Python38\Lib\pickle.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\functional.py first seen with mtime 1665495371.6127725
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\pools.py first seen with mtime 1665495370.7991738
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\__init__.py first seen with mtime 1639754369.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\exceptions.py first seen with mtime 1665495371.5018356
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\generic\base.py first seen with mtime 1663432327.556551
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\models.py first seen with mtime 1663384612.1963208
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\management\__init__.py first seen with mtime 1663432325.032859
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\dispatch\dispatcher.py first seen with mtime 1663432327.3283763
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\filters\aligned_indent.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\translation.py first seen with mtime 1663432327.1199353
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\base\features.py first seen with mtime 1663432327.208165
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\sessions.py first seen with mtime 1663384612.1993668
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\forms\__init__.py first seen with mtime 1663432327.330533
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\__init__.py first seen with mtime 1665496013.874743
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\sites.py first seen with mtime 1663432323.8060365
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\staticfiles\utils.py first seen with mtime 1663432327.0808637
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\decorators\csrf.py first seen with mtime 1663432327.5508265
+File C:\Program Files\Python38\Lib\asyncio\trsock.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\html.py first seen with mtime 1663432327.5170305
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\serialization.py first seen with mtime 1665495371.6204488
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\oauth2\provider.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\model_checks.py first seen with mtime 1663432327.115958
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\contenttypes\management\__init__.py first seen with mtime 1663432325.2699876
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\__init__.py first seen with mtime 1663432327.446851
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\fields\mixins.py first seen with mtime 1663432327.3008494
+File C:\Program Files\Python38\Lib\importlib\util.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\views\autocomplete.py first seen with mtime 1663432324.5325844
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\cffi\model.py first seen with mtime 1663384613.220598
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\tokens.py first seen with mtime 1663432324.7806766
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\hashable.py first seen with mtime 1663432327.5160308
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\wait.py first seen with mtime 1663384609.2417183
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\generic\dates.py first seen with mtime 1663432327.5585892
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\filters.py first seen with mtime 1664606667.4690678
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\text.py first seen with mtime 1665495371.6234627
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\urls.py first seen with mtime 1639132060.0
+File C:\Program Files\Python38\Lib\codecs.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\_vendor\packaging\version.py first seen with mtime 1661865240.4949932
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\handlers\base.py first seen with mtime 1663432327.1389742
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_filters\conf.py first seen with mtime 1662303304.9416246
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\time.py first seen with mtime 1665495371.6254556
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\encoding.py first seen with mtime 1663432327.5108109
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\manager.py first seen with mtime 1663432327.2900894
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\management\color.py first seen with mtime 1663432327.1547506
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\validators.py first seen with mtime 1663432324.7828493
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sites\requests.py first seen with mtime 1663432326.8406832
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_filters\__init__.py first seen with mtime 1662303304.9416246
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\__version__.py first seen with mtime 1663384612.1837654
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\paginator.py first seen with mtime 1663432327.0921464
+File C:\Program Files\Python38\Lib\json\encoder.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\views\__init__.py first seen with mtime 1663432324.5315404
+File C:\Program Files\Python38\Lib\gettext.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\backports\zoneinfo\_czoneinfo.cp38-win_amd64.pyd first seen with mtime 1661865297.9247289
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\utils\encoding.py first seen with mtime 1665495370.848181
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\sql.py first seen with mtime 1661865298.024863
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\__init__.py first seen with mtime 1663432323.79409
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\charset_normalizer\md.py first seen with mtime 1663384611.8701315
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\files\uploadedfile.py first seen with mtime 1663432327.1327624
+File C:\Program Files\Python38\Lib\asyncio\runners.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templatetags\custom_tags.py first seen with mtime 1662455472.4888835
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\_vendor\appdirs.py first seen with mtime 1661865240.4793677
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_filters\filters.py first seen with mtime 1662303304.9485042
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\templatetags\l10n.py first seen with mtime 1663432327.4752293
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\oauth2\urls.py first seen with mtime 1639132060.0
+File C:\Program Files\Python38\Lib\asyncio\selector_events.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\fields\related_lookups.py first seen with mtime 1663432327.3067596
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\clocks.py first seen with mtime 1665495370.7826326
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\packages.py first seen with mtime 1663384612.1973224
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\local.py first seen with mtime 1665495371.5018356
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\conf\global_settings.py first seen with mtime 1663432323.3887072
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\charset_normalizer\assets\__init__.py first seen with mtime 1663384611.8758357
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sites\__init__.py first seen with mtime 1663432326.8327715
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\executors\__init__.py first seen with mtime 1665241820.0931942
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\filters.py first seen with mtime 1663432323.8000922
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\__init__.py first seen with mtime 1663432327.540101
+File C:\Program Files\Python38\Lib\selectors.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\loaders\__init__.py first seen with mtime 1665495371.5984888
+File C:\Program Files\Python38\Lib\wsgiref\headers.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\translation\reloader.py first seen with mtime 1663432327.5356162
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\contenttypes\models.py first seen with mtime 1663432325.0577605
+File C:\Program Files\Python38\Lib\wsgiref\util.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\views.py first seen with mtime 1668011170.4562519
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\sqlite3\__init__.py first seen with mtime 1663432327.246511
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\_os.py first seen with mtime 1663432327.4938111
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\templatetags\admin_modify.py first seen with mtime 1663432324.5275235
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\urls.py first seen with mtime 1639132060.0
+File C:\Program Files\Python38\DLLs\_queue.pyd first seen with mtime 1582662654.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\backends.py first seen with mtime 1663432324.7650602
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\library.py first seen with mtime 1663432327.455222
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\serializers\base.py first seen with mtime 1663432327.1865675
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\utils.py first seen with mtime 1663432327.2701695
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\billiard\process.py first seen with mtime 1665495368.8981886
+File C:\Program Files\Python38\Lib\email\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\schedules.py first seen with mtime 1665495371.5058122
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\objects.py first seen with mtime 1665495371.6187022
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\click\core.py first seen with mtime 1665495370.4580195
+File C:\Program Files\Python38\Lib\collections\abc.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\status_codes.py first seen with mtime 1663384612.200322
+File C:\Program Files\Python38\Lib\genericpath.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py first seen with mtime 1661865240.4949932
+File C:\Program Files\Python38\Lib\stringprep.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\DLLs\_sqlite3.pyd first seen with mtime 1582662654.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\ratelimit.py first seen with mtime 1644424010.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\validators.py first seen with mtime 1663432327.0971465
+File C:\Program Files\Python38\Lib\logging\config.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\pkgutil.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\amqp\sasl.py first seen with mtime 1665495370.6505647
+File C:\Program Files\Python38\Lib\multiprocessing\util.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\email\mime\text.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\sign\models.py first seen with mtime 1663508094.549903
+File C:\Program Files\Python38\Lib\sre_constants.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\__init__.py first seen with mtime 1663384612.1826134
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\apps\registry.py first seen with mtime 1663432323.386759
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\exceptions.py first seen with mtime 1663384609.2020721
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\base\__init__.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py first seen with mtime 1661865240.4949932
+File C:\Program Files\Python38\Lib\asyncio\windows_utils.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\billiard\__init__.py first seen with mtime 1665495368.8822315
+File C:\Program Files\Python38\Lib\abc.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\tokenize.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\urls.py first seen with mtime 1663865035.4414694
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\signals.py first seen with mtime 1665495371.506822
+File C:\Program Files\Python38\Lib\multiprocessing\queues.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\pprint.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\DLLs\_ssl.pyd first seen with mtime 1582662656.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\filters\right_margin.py first seen with mtime 1661865298.024863
+File C:\Program Files\Python38\Lib\email\mime\message.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\DLLs\_socket.pyd first seen with mtime 1582662656.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\adapter.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\query_utils.py first seen with mtime 1663432327.2930906
+File C:\Program Files\Python38\Lib\html\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\vine\__init__.py first seen with mtime 1665495369.114693
+File C:\Program Files\Python38\Lib\asyncio\queues.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\exceptions.py first seen with mtime 1663432327.454222
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\signals.py first seen with mtime 1663432327.294089
+File C:\Program Files\Python38\Lib\contextvars.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\forms\renderers.py first seen with mtime 1663432327.3379786
+File C:\Program Files\Python38\Lib\asyncio\subprocess.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\providers\google\__init__.py first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\admin.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\sqlparse\__init__.py first seen with mtime 1661865298.0092392
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\backends\django.py first seen with mtime 1663432327.4642217
+File C:\Program Files\Python38\Lib\bz2.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\middleware\csrf.py first seen with mtime 1663432327.4413612
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_filters\exceptions.py first seen with mtime 1662303304.9454944
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\connection.py first seen with mtime 1663384609.2299125
+File C:\Program Files\Python38\Lib\collections\__init__.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\ctypes\__init__.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\urllib\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\triggers\__init__.py first seen with mtime 1665241820.1253674
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\click\parser.py first seen with mtime 1665495370.4639978
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\managers.py first seen with mtime 1639132060.0
+File C:\Program Files\Python38\Lib\email\charset.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\files\utils.py first seen with mtime 1663432327.1357634
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\settings.py first seen with mtime 1668011612.8310754
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\cffi\__init__.py first seen with mtime 1663384613.2047813
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\exceptions.py first seen with mtime 1663432323.7991822
+File C:\Program Files\Python38\Lib\lzma.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\apps.py first seen with mtime 1663432323.7960901
+File C:\Program Files\Python38\Lib\email\encoders.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\click\_compat.py first seen with mtime 1665495370.452086
+File C:\Program Files\Python38\Lib\weakref.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\utils.py first seen with mtime 1663432327.1975808
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\templatetags\__init__.py first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\utils\url.py first seen with mtime 1665495370.8593495
+File C:\Program Files\Python38\DLLs\pyexpat.pyd first seen with mtime 1582662656.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\files\uploadhandler.py first seen with mtime 1663432327.1337621
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\management\base.py first seen with mtime 1663432327.1537447
+File C:\Program Files\Python38\Lib\_bootlocale.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\DLLs\_decimal.pyd first seen with mtime 1582662654.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\idna\__init__.py first seen with mtime 1663384611.4280984
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py first seen with mtime 1661865240.4793677
+File C:\Program Files\Python38\Lib\zipfile.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\loaders\base.py first seen with mtime 1663432327.46967
+File C:\Program Files\Python38\Lib\platform.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\compat.py first seen with mtime 1663384612.1913214
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sites\apps.py first seen with mtime 1663432326.834771
+File C:\Program Files\Python38\Lib\socketserver.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\urls.py first seen with mtime 1665295607.18675
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\nodenames.py first seen with mtime 1665495371.6177065
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\billiard\compat.py first seen with mtime 1665495368.8851712
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\contenttypes\__init__.py first seen with mtime 1663432325.0513859
+File C:\Program Files\Python38\Lib\encodings\aliases.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\templatetags\base.py first seen with mtime 1663432324.5295055
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\app\annotations.py first seen with mtime 1665495371.5097985
+File C:\Program Files\Python38\Lib\logging\handlers.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\site.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\util.py first seen with mtime 1665241820.398951
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\_state.py first seen with mtime 1665495371.4967453
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\management\commands\__init__.py first seen with mtime 1663432327.15975
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\apscheduler\__init__.py first seen with mtime 1665241820.0874016
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\messages\api.py first seen with mtime 1663432326.1329496
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\utils\collections.py first seen with mtime 1665495370.8441875
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\loaders\app_directories.py first seen with mtime 1663432327.4684832
+File C:\Program Files\Python38\Lib\io.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\compression.py first seen with mtime 1665495370.7866566
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\ssltransport.py first seen with mtime 1663384609.2387168
+File C:\Program Files\Python38\DLLs\_asyncio.pyd first seen with mtime 1582662654.0
+File C:\Program Files\Python38\Lib\signal.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\uuid.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\views\main.py first seen with mtime 1663432324.5345953
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\constants.py first seen with mtime 1663432327.2825181
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\packages\__init__.py first seen with mtime 1663384609.2228882
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\sign\__init__.py first seen with mtime 1663439433.4153194
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\safestring.py first seen with mtime 1663432327.5266235
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\requests\exceptions.py first seen with mtime 1663384612.1933222
+File C:\Program Files\Python38\Lib\email\message.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\email\feedparser.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\operations\models.py first seen with mtime 1663432327.2760725
+File C:\Program Files\Python38\DLLs\select.pyd first seen with mtime 1582662654.0
+File C:\Program Files\Python38\Lib\_weakrefset.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\checks\security\csrf.py first seen with mtime 1663432327.1255403
+File C:\Program Files\Python38\Lib\ntpath.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\utils\__init__.py first seen with mtime 1665495371.6087356
+File C:\Program Files\Python38\Lib\_collections_abc.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\DLLs\_multiprocessing.pyd first seen with mtime 1582662654.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\colorama\initialise.py first seen with mtime 1665495370.392458
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\signing.py first seen with mtime 1663432327.0961463
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\sql\query.py first seen with mtime 1663432327.3224733
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\functions\window.py first seen with mtime 1663432327.3168504
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\staticfiles\apps.py first seen with mtime 1663432327.0729342
+File C:\Program Files\Python38\Lib\heapq.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\DLLs\_bz2.pyd first seen with mtime 1582662654.0
+File C:\Program Files\Python38\Lib\asyncio\streams.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\app\defaults.py first seen with mtime 1665495371.5165827
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\forms\widgets.py first seen with mtime 1663432327.3399794
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\log.py first seen with mtime 1665495370.7916033
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\files\locks.py first seen with mtime 1663432327.129762
+File C:\Program Files\Python38\Lib\struct.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\models.py first seen with mtime 1648192565.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\colorama\ansitowin32.py first seen with mtime 1665495370.3913708
+File C:\Program Files\Python38\Lib\_markupbase.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\operations\special.py first seen with mtime 1663432327.2772992
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\urls\base.py first seen with mtime 1663432327.4874918
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\asyncio.py first seen with mtime 1663432327.495811
+File C:\Program Files\Python38\Lib\stat.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\encodings\idna.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\email\headerregistry.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\email\base64mime.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1663432326.5732608
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\messages\storage\__init__.py first seen with mtime 1663432326.1414473
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\servers\__init__.py first seen with mtime 1663432327.192571
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\utils\tree.py first seen with mtime 1663432327.531616
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\options.py first seen with mtime 1663432327.2910895
+File C:\Program Files\Python38\Lib\email\quoprimime.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\urllib3\util\response.py first seen with mtime 1663384609.2337184
+File C:\Program Files\Python38\DLLs\_lzma.pyd first seen with mtime 1582662654.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\backends\sqlite3\introspection.py first seen with mtime 1663432327.2536783
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\kombu\serialization.py first seen with mtime 1665495370.801122
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\templatetags\account.py first seen with mtime 1639132060.0
+File C:\Program Files\Python38\Lib\json\__init__.py first seen with mtime 1582662636.0
+File C:\Program Files\Python38\Lib\importlib\machinery.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\core\files\__init__.py first seen with mtime 1663432327.127769
+File C:\Program Files\Python38\Lib\xml\parsers\__init__.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\celery\app\builtins.py first seen with mtime 1665495371.5143754
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\click\utils.py first seen with mtime 1665495370.4714718
+File C:\Program Files\Python38\Lib\http\server.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_filters\widgets.py first seen with mtime 1662303304.9485042
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\decorators\debug.py first seen with mtime 1663432327.5518267
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\__init__.py first seen with mtime 1663432327.1955714
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\functions\__init__.py first seen with mtime 1663432327.3086731
+File C:\Program Files\Python38\Lib\sysconfig.py first seen with mtime 1582662636.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\apps\__init__.py first seen with mtime 1663432323.383654
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\template\defaultfilters.py first seen with mtime 1663432327.4518127
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_filters\filterset.py first seen with mtime 1662303304.9485042
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\widgets.py first seen with mtime 1663432323.8080428
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\fields\files.py first seen with mtime 1663432327.2978487
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account first seen with mtime 1663384627.1001203
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\openid first seen with mtime 1663384627.1062481
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount first seen with mtime 1663384627.1854086
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\tests first seen with mtime 1663384627.2069733
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\account_inactive.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\base.html first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\email first seen with mtime 1663384626.905618
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\email.html first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\email_confirm.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\login.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\logout.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\messages first seen with mtime 1663384627.0259657
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\password_change.html first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\password_reset.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\password_reset_done.html first seen with mtime 1639145205.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\password_reset_from_key.html first seen with mtime 1639240911.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\password_reset_from_key_done.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\password_set.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\signup.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\signup_closed.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\snippets first seen with mtime 1663384627.0850203
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\verification_sent.html first seen with mtime 1639145205.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\verified_email_required.html first seen with mtime 1639145205.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\email\base_message.txt first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\email\email_confirmation_message.txt first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\email\email_confirmation_signup_message.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\email\email_confirmation_signup_subject.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\email\email_confirmation_subject.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\email\password_reset_key_message.txt first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\email\password_reset_key_subject.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\email\unknown_account_message.txt first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\email\unknown_account_subject.txt first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\messages\cannot_delete_primary_email.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\messages\email_confirmation_sent.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\messages\email_confirmed.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\messages\email_deleted.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\messages\logged_in.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\messages\logged_out.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\messages\password_changed.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\messages\password_set.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\messages\primary_email_set.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\messages\unverified_primary_email.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\account\snippets\already_logged_in.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\openid\base.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\openid\login.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\authentication_error.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\base.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\connections.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\login.html first seen with mtime 1654593658.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\login_cancelled.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\messages first seen with mtime 1663384627.167849
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\signup.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\snippets first seen with mtime 1663384627.2038884
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\messages\account_connected.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\messages\account_connected_other.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\messages\account_connected_updated.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\messages\account_disconnected.txt first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\snippets\login_extra.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\socialaccount\snippets\provider_list.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\templates\tests\test_403_csrf.html first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\account first seen with mtime 1663790241.8061917
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\add_subscribers.html first seen with mtime 1663869513.0716844
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\articles_create.html first seen with mtime 1662669990.9655192
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\articles_delete.html first seen with mtime 1662709809.3307898
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\articles_edit.html first seen with mtime 1662709226.0768535
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\category_list.html first seen with mtime 1665235764.4036386
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\daily_post.html first seen with mtime 1665247501.7060237
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\flatpages first seen with mtime 1663346111.4126666
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\main.html first seen with mtime 1663505706.8284793
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\news_create.html first seen with mtime 1662669991.013893
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\news_delete.html first seen with mtime 1662668771.5966897
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\news_edit.html first seen with mtime 1662659665.2606108
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\post.html first seen with mtime 1662305208.5648887
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\posts.html first seen with mtime 1665295929.9028795
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\post_created_email.html first seen with mtime 1665240220.5557508
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\profile_edit.html first seen with mtime 1663438122.7404456
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\protect first seen with mtime 1663507814.4374237
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\search.html first seen with mtime 1662464075.2591343
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\sign first seen with mtime 1663440397.6382089
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\subscribe.html first seen with mtime 1665224825.0768766
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\account\base.html first seen with mtime 1663495787.734739
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\account\email first seen with mtime 1663790592.9446163
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\account\email\email_confirmation_signup_message.html first seen with mtime 1663790311.5060017
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\account\email\email_confirmation_subject.html first seen with mtime 1663790592.9444356
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\flatpages\default.html first seen with mtime 1662129901.1897314
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\protect\index.html first seen with mtime 1663507814.436199
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\sign\login.html first seen with mtime 1663440004.6030974
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\sign\logout.html first seen with mtime 1663440102.3566875
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\templates\sign\signup.html first seen with mtime 1663440397.6361418
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\templates\django_filters first seen with mtime 1662303304.9992206
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\templates\django_filters\rest_framework first seen with mtime 1662303304.99686
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\templates\django_filters\widgets first seen with mtime 1662303304.9992206
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\templates\django_filters\rest_framework\crispy_form.html first seen with mtime 1662303304.99686
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\templates\django_filters\rest_framework\form.html first seen with mtime 1662303304.9992206
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\templates\django_filters\widgets\multiwidget.html first seen with mtime 1662303304.9992206
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\ar\LC_MESSAGES\django.mo first seen with mtime 1662303304.9538622
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\be\LC_MESSAGES\django.mo first seen with mtime 1662303304.9564264
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\bg\LC_MESSAGES\django.mo first seen with mtime 1662303304.9589677
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\cs\LC_MESSAGES\django.mo first seen with mtime 1662303304.9616728
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\da\LC_MESSAGES\django.mo first seen with mtime 1662303304.9635515
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\de\LC_MESSAGES\django.mo first seen with mtime 1662303304.966208
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\el\LC_MESSAGES\django.mo first seen with mtime 1662303304.9681053
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\es\LC_MESSAGES\django.mo first seen with mtime 1662303304.9704707
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\es_AR\LC_MESSAGES\django.mo first seen with mtime 1662303304.9735339
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\fr\LC_MESSAGES\django.mo first seen with mtime 1662303304.9755776
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\it\LC_MESSAGES\django.mo first seen with mtime 1662303304.9770968
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\pl\LC_MESSAGES\django.mo first seen with mtime 1662303304.9800837
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\pt_BR\LC_MESSAGES\django.mo first seen with mtime 1662303304.9828475
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\ru\LC_MESSAGES\django.mo first seen with mtime 1662303304.9847388
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\sk\LC_MESSAGES\django.mo first seen with mtime 1662303304.9847388
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\uk\LC_MESSAGES\django.mo first seen with mtime 1662303304.9895606
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\django_filters\locale\zh_CN\LC_MESSAGES\django.mo first seen with mtime 1662303304.991856
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\ar\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\bg\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\ca\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\cs\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\da\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\de\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\el\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\en\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\es\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\eu\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\fa\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\fi\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\fr\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\he\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\hr\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\hu\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\id\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\it\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\ja\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\ka\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\ko\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\ky\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\lt\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\lv\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\mn\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\nb\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\nl\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\pl\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\pt_BR\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\pt_PT\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\ro\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\ru\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\sk\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\sl\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\sr\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\sr_Latn\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\sv\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\th\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\tr\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\uk\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\zh_CN\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\zh_Hans\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\zh_Hant\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\lib\site-packages\allauth\locale\zh_TW\LC_MESSAGES\django.mo first seen with mtime 1654593816.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1663432325.0390158
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1663432327.263685
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1663432327.439361
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\migrations\__init__.py first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1663432326.5762603
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\migrations\__init__.py first seen with mtime 1665241820.406961
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1663432324.2632241
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\migrations\0002_token_max_lengths.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\csrf.py first seen with mtime 1663432327.5412798
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1663432325.0443854
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\migrations\0006_remove_djangojob_name.py first seen with mtime 1665241820.403934
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1663432325.041391
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1663432325.043386
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sites\migrations\0002_alter_domain_unique.py first seen with mtime 1663432327.069934
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1663432324.2642245
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1663432327.2606852
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1663432325.0483854
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\migrations\0002_rename_category_postcategory_categorythrough_and_more.py first seen with mtime 1665235599.454641
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\views\defaults.py first seen with mtime 1663432327.5432794
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\migrations\0001_initial.py first seen with mtime 1665221042.012088
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1663432324.262219
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\middleware.py first seen with mtime 1663432325.2790706
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1663432325.0453858
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\migrations\0008_remove_djangojobexecution_started.py first seen with mtime 1665241820.4049308
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\migrations\0001_initial.py first seen with mtime 1663432325.4833431
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\migrations\0001_initial.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\migrations\0003_extra_data_default_dict.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1663432325.0473924
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\wsgi.py first seen with mtime 1661865484.930081
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sites\migrations\0001_initial.py first seen with mtime 1663432327.0679345
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1663432327.319283
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\socialaccount\migrations\0001_initial.py first seen with mtime 1639734504.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\migrations\0001_initial.py first seen with mtime 1665241820.3999474
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\migrations\0009_djangojobexecution_unique_job_executions.py first seen with mtime 1665241820.4059281
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1663432325.0473924
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1663432325.042385
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\migrations\0002_email_max_length.py first seen with mtime 1639132060.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\migrations\0003_alter_flatpage_template_name.py first seen with mtime 1663440185.9569874
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\migrations\0003_auto_20200716_1632.py first seen with mtime 1665241820.4009438
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\migrations\0005_migrate_name_to_id.py first seen with mtime 1665241820.402937
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1663432327.2672873
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1663432325.0367422
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1663432325.274081
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1663432325.0463862
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\migrations\__init__.py first seen with mtime 1661867262.4004245
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1663432324.2642245
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1663432326.8237596
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\conf\urls\__init__.py first seen with mtime 1663432323.7898993
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1663432327.2616844
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\migrations\__init__.py first seen with mtime 1663432325.4843516
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\allauth\account\migrations\__init__.py first seen with mtime 1571643861.0
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\migrations\0002_auto_20180412_0758.py first seen with mtime 1665241820.3999474
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1663432325.2750807
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1663432325.2750807
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1663432325.0401652
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1663432325.0383463
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\migrations\0007_auto_20200717_1404.py first seen with mtime 1665241820.4049308
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sites\migrations\__init__.py first seen with mtime 1663432327.069934
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\flatpages\migrations\0002_alter_flatpage_template_name.py first seen with mtime 1661888141.07972
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django_apscheduler\migrations\0004_auto_20200717_1043.py first seen with mtime 1665241820.4019403
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\venv\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1663432326.8237596
+File C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\settings.py previous mtime: 1668011612.8310754, current mtime: 1668011635.7506516
+C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\settings.py notified as changed. Signal results: [(<function template_changed at 0x000001D63C6C5C10>, None), (<function translation_file_changed at 0x000001D63D3BC5E0>, None)].
+C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\settings.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\settings.py changed, reloading.
+2022-11-09 21:06:03,835 INFO Watching for file changes with StatReloader
+2022-11-09 21:08:04,458 INFO C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\views.py changed, reloading.
+2022-11-09 21:08:05,999 INFO Watching for file changes with StatReloader
+2022-11-09 21:08:33,497 INFO C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\views.py changed, reloading.
+2022-11-09 21:08:34,976 INFO Watching for file changes with StatReloader
+2022-11-09 21:08:50,588 INFO C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\news\views.py changed, reloading.
+2022-11-09 21:08:52,048 INFO Watching for file changes with StatReloader
+2022-11-09 22:27:36,412 INFO C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\settings.py changed, reloading.
+2022-11-09 22:27:38,118 INFO Watching for file changes with StatReloader
+2022-11-10 13:46:46,858 INFO C:\Users\kuznetsovaon\PycharmProjects\projecD3\NewsPortal\NewsPortal\settings.py changed, reloading.
